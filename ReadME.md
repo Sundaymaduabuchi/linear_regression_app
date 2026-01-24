@@ -112,7 +112,7 @@ The project directory is structured as follows:
 ## Power Output Visualization
 
 ### Actual vs Predicted Values
-[Training and Validation Loss](src/figure_1.png))
+[Training and Validation Loss](src/figure_1.png)
 
 ## License
 This project is licensed under [![License: MIT](...)](...)
